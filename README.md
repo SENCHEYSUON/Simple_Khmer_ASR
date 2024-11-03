@@ -60,3 +60,9 @@ This repository contains a simple Khmer Automatic Speech Recognition (ASR) proje
 - [OpenSLR Resource](https://www.openslr.org/resources/42)
 - [Wav2Vec2 Khmer Model](https://github.com/seanghay/wav2vec2-khmer-openslr)
 - [Separate Model](https://github.com/TRvlvr/model_repo/releases/tag/all_public_uvr_models)
+
+## Problems 
+- If you face any problem about the model weight, you can download the model from here too : 
+- [Seanghay Yath](https://github.com/seanghay/wav2vec2-khmer-openslr)
+- [Vituo Phy 1](https://huggingface.co/vitouphy/wav2vec2-xls-r-300m-khmer)
+- [Vituo Phy 2](https://huggingface.co/vitouphy/wav2vec2-xls-r-1b-khmer)
